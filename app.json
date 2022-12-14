@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Exploriana",
+    "slug": "exploriana",
+    "version": "1.0.0",
+    "icon": "./assets/images/app-icon.png",
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "./assets/images/splashscreen.png",
+      "backgroundColor": "#FFFFFF",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9c112cdc-56f9-441b-be14-aeee3344f6e6"
+      }
+    }
+  }
+}

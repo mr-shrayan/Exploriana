@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@exploriana/*": ["src/*"],
+      "@resources/*": ["assets/*"]
+    }
+  },
+  "extends": "expo/tsconfig.base"
+}
