@@ -27,23 +27,23 @@ Want to contribute or have any queries? Great!
 
 Send an email to : shrayan.bandyopadhyay2@gmail.com
 
-## Development
+## Presentation Slides
 
 ![Slide1](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/1.png)
 ![Slide2](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/2.png)
-![Slide3]()
-![Slide4]()
-![Slide5]()
-![Slide6]()
-![Slide7]()
-![Slide8]()
-![Slide9]()
-![Slide10]()
-![Slide11]()
-![Slide12]()
-![Slide13]()
-![Slide14]()
-![Slide15]()
+![Slide3](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/3.png)
+![Slide4](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/4.png)
+![Slide5](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/5.png)
+![Slide6](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/6.png)
+![Slide7](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/7.png)
+![Slide8](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/8.png)
+![Slide9](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/9.png)
+![Slide10](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/10.png)
+![Slide11](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/11.png)
+![Slide12](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/12.png)
+![Slide13](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/13.png)
+![Slide14](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/14.png)
+![Slide15](https://github.com/mr-shrayan/Exploriana/blob/main/Documentation/Screenshots/15.png)
 
 ## License
 
